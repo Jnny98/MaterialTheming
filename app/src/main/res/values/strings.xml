@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Material Theming</string>
+
+    <!--LOGIN-->
+    <string name="bienvenido">Bienvenido</string>
+    <string name="iniciarSesion">Iniciar Sesión</string>
+    <string name="password">Password</string>
+    <string name="name">Name</string>
+    <string name="helperPassword">al menos 8 caracteres</string>
+    <string name="helperName">nombre y apellidos</string>
+
+</resources>
